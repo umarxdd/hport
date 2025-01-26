@@ -5,7 +5,7 @@ const BioE = () => {
       <div className="bg-black text-white px-[10vw] py-[15vh]">
         <div className="flex flex-col gap-10 max-w-[50%]">
           <div className="text-3xl font-bold font-mono">
-            <h1>Hammad Abassi</h1>
+            <h1>Hammad Abbasi</h1>
             <h1>Cinematographer, Filmmaker, Storyteller</h1>
           </div>
           <div className="text-xl italic font-extralight">

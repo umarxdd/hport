@@ -57,7 +57,9 @@ const Carousel = () => {
         </div>
 
         <div className="absolute text-9xl top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white hover:opacity-75">
-          <GoPlay />
+          <a href={content[currentIndex].src} target="_blank">
+            <GoPlay />
+          </a>
         </div>
       </div>
     </>
